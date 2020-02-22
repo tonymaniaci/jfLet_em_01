@@ -15,7 +15,7 @@ void login(url_let) async {
 
   /* var action = resultJson["action"];          */     var action = "SESSION";
   /* var attendee_id = resultJson["username"];   */     var attendee_id = "tmaniaci";
-  /*var schedule_id = resultJson["schedule_id"]; */     var schedule_id = "6053";
+  /*var schedule_id = resultJson["schedule_id"]; */     var schedule_id = "6054";
   /* var autoLogin = resultJson["autoLogin"];    */     var autoLogin = "1";
   /* var server = resultJson["server"];          */     var server = "https://developer1.itelcompanies.com";
 

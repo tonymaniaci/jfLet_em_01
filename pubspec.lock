@@ -75,7 +75,7 @@ packages:
       name: flutter_spinkit
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.1.1+1"
+    version: "4.1.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -150,7 +150,7 @@ packages:
       name: provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.0.2"
+    version: "4.0.4"
   quiver:
     dependency: transitive
     description:
